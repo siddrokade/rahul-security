@@ -1,2 +1,2 @@
 # rahul-security
-#College Project kkon DevSecOps
+#College Project on DevSecOps
